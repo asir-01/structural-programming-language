@@ -1,0 +1,2 @@
+"Hello! I’m Asir from Sylhet Engineering College. I convert caffeine into code and transform software anomalies into masterclasses. Continuously deciphering computational logic and diagnosing persistent syntax anomalies. Passionate about algorithmic problem-solving, technological experimentation, and architectural deployment. If code executes successfully on the initial compilation, I inherently suspect a profound misunderstanding on my part."
+
